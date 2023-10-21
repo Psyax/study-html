@@ -40,6 +40,7 @@ nav ul li{
     line-height: 30px;
     background: red;
     color: blue;
+    position:fixed;
 }
 
 #content{
